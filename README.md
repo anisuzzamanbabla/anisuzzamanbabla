@@ -7,7 +7,6 @@
 - Lead App Developer 
 - Android, Java, Spring enthusiast
 - FinTech Experienced
-- SOLID Code Practitioner
 
 
 <h3>🛠 Tech Stack</h3>
