@@ -17,8 +17,9 @@
 - **Database:** MySQL, Oracle, SQLite, Firebase Realtime Database
 - **Cloud:** AWS(EC2, VPC, S3), Google Cloud Platform, Linode 
 - **ORM:** Hibernate
-- **Version Control:** Git, SVN Project Management: Jira, Redmine.
-- **Analytics:** Firebase, Crashlytics, Facebook App event
+- **Version Control:** Git 
+- **Project Management:** Jira, Redmine
+- **Analytics:** Firebase, Crashlytics
 - **Application Server:** Apache Tomcat
 - **Miscellaneous:** Dagger 2, Jenkins, Room, Retrofit, Volley, EMV QR, Google Maps, FCM, Firebase Authentication.
 
