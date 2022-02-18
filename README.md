@@ -4,7 +4,6 @@
 
 <h3> About Me </h3>
 
-- Lead App Developer 
 - Android, Java, Spring enthusiast
 - FinTech Experienced
 
