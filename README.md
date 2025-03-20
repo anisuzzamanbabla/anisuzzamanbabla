@@ -4,7 +4,7 @@
 
 <h3> About Me </h3>
 
-- Android, Java, Spring enthusiast
+- Android, Go, Java, Spring enthusiast
 - FinTech Experienced
 
 
